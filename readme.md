@@ -1,24 +1,31 @@
 # Alura Store
 
-Neste desafio, você irá ajudar o Senhor João a decidir qual loja da sua rede Alura Store vender para iniciar um novo 
-empreendimento. Para isso, você analisará dados de vendas, desempenho e avaliações das 4 lojas fictícias da Alura Store.
-O objetivo é identificar a loja com menor eficiência e apresentar uma recomendação final baseada nos dados.
+Durante este desafio, você irá ajudar o Senhor João a decidir qual loja da sua rede Alura Store vender para iniciar um novo empreendimento. Para isso, você analisará dados de vendas, desempenho e avaliações das 4 lojas fictícias da Alura Store. O objetivo é identificar a loja com menor eficiência e apresentar uma recomendação final baseada nos dados.
 
 ---
 
 ## Sumário
 1. [Objetivo](#objetivo)
 2. [Bibliotecas Utilizadas](#bibliotecas-utilizadas)
-3. [Resultados](#resultados)
+3. [Analisies realizadas](#Analises-realizadas)
 
 ---
 ##  Objetivo  
 
-- Calcular o faturamento total de cada loja.
-- Calcular a quantidade de produtos vendidos por categoria em cada loja.
-- Calcular a média das avaliações dos clientes para cada loja.
-- Identificar quais produtos foram os mais vendidos e os menos vendidos em cada loja.
-- Calcular o custo médio de frete para cada loja.
+
+-Analisar os dados das lojas:
+
+Você deve avaliar informações como faturamento, categorias mais vendidas, avaliações dos clientes, produtos mais vendidos e frete médio.
+
+-Criar gráficos para visualização:
+
+Decida quais tipos de gráficos usar para apresentar os resultados de maneira clara e visual.
+
+-Mínimo de 3 gráficos diferentes, que podem incluir gráficos de barras, pizza, dispersão, entre outros.
+
+-Apresentar uma recomendação:
+
+Após as análises, escreva um texto explicando qual loja o Senhor João deve vender e por quê, com base nos dados apresentados.
 
 ---
 ## Bibliotecas Utilizadas
@@ -26,24 +33,9 @@ O objetivo é identificar a loja com menor eficiência e apresentar uma recomend
 - 📈 `matplotlib`
 
 ---
-<!--
-## Metodologia
-Explique de forma breve os passos realizados no projeto, como:
-1. Coleta dos dados
-2. Limpeza e tratamento dos dados
-3. Análises exploratórias
-4. Modelagem preditiva (se aplicável)
-5. Visualização e interpretação dos resultados
--->
-
----
 
 ## Resultados
 
-## 📖✍️ Relatorio Estratégico para Venda da Loja
-### 1. 💡 Introdução
-
-O objetivo deste relatório é determinar qual loja o Senhor João deve vender, considerando diversos fatores de desempenho, incluindo faturamento, categorias de produtos, avaliações dos clientes, desempenho dos produtos mais e menos vendidos, e custos de frete. A decisão será baseada em dados quantitativos e qualitativos para garantir a melhor escolha estratégica.
 
 ### 2. 📊💰📈  Análises Realizadas
 
