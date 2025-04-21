@@ -1,2 +1,2 @@
 # chellengedatascience
-desafio da formação em ciência de dados 
+Desafio da formação em ciência de dados da oracle em conjunto com a Alura
