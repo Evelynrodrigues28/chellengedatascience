@@ -7,7 +7,7 @@ Durante este desafio, você irá ajudar o Senhor João a decidir qual loja da su
 ## Sumário
 1. [Objetivo](#objetivo)
 2. [Bibliotecas Utilizadas](#bibliotecas-utilizadas)
-3. [Analisies realizadas](#Analises-realizadas)
+3. [Analises realizadas](#Analises-realizadas)
 
 ---
 ##  Objetivo  
@@ -34,10 +34,8 @@ Após as análises, escreva um texto explicando qual loja o Senhor João deve ve
 
 ---
 
-## Resultados
+## Análises Realizadas
 
-
-### 2. 📊💰📈  Análises Realizadas
 
 💰 Faturamento Total
 
