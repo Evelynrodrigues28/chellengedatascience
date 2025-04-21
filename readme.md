@@ -29,15 +29,15 @@ Após as análises, escreva um texto explicando qual loja o Senhor João deve ve
 
 ---
 ## Bibliotecas Utilizadas
-- 🐼 `pandas`
-- 📈 `matplotlib`
+-  `pandas`
+-  `matplotlib`
 
 ---
 
 ## Análises Realizadas
 
 
-💰 Faturamento Total
+ Faturamento Total
 
 *	Loja 1: R$1.534.509,12 - (maior faturamento com 26.1% das vendas)
 
