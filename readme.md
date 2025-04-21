@@ -7,7 +7,7 @@ Durante este desafio, você irá ajudar o Senhor João a decidir qual loja da su
 ## Sumário
 1. [Objetivo](#objetivo)
 2. [Bibliotecas Utilizadas](#bibliotecas-utilizadas)
-3. [Analises realizadas](#Analises-realizadas)
+3. [Análises realizadas](#Análises-realizadas)
 
 ---
 ##  Objetivo  
