@@ -34,7 +34,7 @@ Após as análises, escreva um texto explicando qual loja o Senhor João deve ve
 
 ---
 
-## Recomndação Final
+## Recomendação Final
 
  Principais Insights
 
