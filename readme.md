@@ -36,11 +36,6 @@ Após as análises, escreva um texto explicando qual loja o Senhor João deve ve
 
 ## Recomendação Final
 
- Principais Insights
+A Loja 4 é a mais indicada para ser vendida, dado seu baixo desempenho financeiro, menor faturamento, e classificação inferior em vendas comparado às outras lojas. Embora tenha algumas vantagens, como o menor custo de envio, essas não são suficientes para justificar a manutenção da unidade.
 
-A Loja 4 teve o menor faturamento, menor número de vendas e um dos piores desempenhos de avaliação.
-
-A Loja 1 apresentou o maior frete médio, o que pode impactar negativamente a experiência do cliente.
-
-As categorias mais vendidas variam entre as lojas, mas produtos de tecnologia e utilidades domésticas se destacam.
 
